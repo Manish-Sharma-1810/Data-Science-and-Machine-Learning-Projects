@@ -1,7 +1,7 @@
 # Data-Science-Projects
 
-This repository is a collection of my Data Science projects. In our projects we use data from Kaggle.com and I have performed all tasks using Python.
-These projects basically use Python-3 and Jupyther Notebook.
+This repository is a collection of my Data Science and Machine Learning projects. In our projects we use data from Kaggle.com and we have performed all tasks using Python.
+These projects basically use Python-3 and its libraries and Jupyther Notebook.
 
 ### In these projects we haved use some very popular librariese of Python-3 which are:
 - numpy
