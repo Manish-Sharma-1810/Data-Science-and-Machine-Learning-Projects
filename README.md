@@ -12,7 +12,7 @@ In these projects I haved use some very popular librariese of Python-3 which are
 - fbprophet
 - sikit-learn
 
-And I have performed some common tasks in our projects like:
+And we have performed some common tasks in our projects like:
 - Geathering (Or creating)  data.
 - Importing required libraries.
 - Creating and Analysing Data Frame.
@@ -23,3 +23,8 @@ And I have performed some common tasks in our projects like:
 - Data intrepretation.
 - Predictions and manupulations
 - Conclusion.
+
+## In these project we use follownig technologies :
+- Python-3
+- Visual Studio Code
+- Jupyter
