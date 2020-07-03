@@ -16,3 +16,10 @@ And I have performed some common tasks in our projects like:
 - Geathering (Or creating)  data.
 - Importing required libraries.
 - Creating and Analysing Data Frame.
+- Cleaning the data.
+- Exploratory Data Analysis (EDA).
+- Data Visualization.
+- Data Fitting.
+- Data intrepretation.
+- Predictions and manupulations
+- Conclusion.
