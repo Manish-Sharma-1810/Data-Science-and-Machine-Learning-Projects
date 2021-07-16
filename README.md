@@ -11,7 +11,7 @@ These projects basically use Python-3 and its libraries and Jupyther Notebook.
 - plotly
 - cufflinks
 - fbprophet
-- sikit-learn
+- scikit-learn
 
 ### And we have performed some common tasks in our projects like:
 - Geathering (Or creating)  data.
